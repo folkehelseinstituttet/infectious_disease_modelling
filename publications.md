@@ -7,6 +7,10 @@ title: "Publications"
 *Palomares AD, De Blasio BF, Chan LY, Di Ruscio F, Midtbø JE* <br>
 Epidemics. 2026 Feb 17:100895.<br>
 
+- [**Towards a Europe-wide reconstruction and analysis of hospital networks**](https://doi.org/10.1016/j.cmi.2026.01.003)<br>
+Donker T, Grundmann H, Temime L, Crépey P, Pezzotti P, Robotham JV, de Boer G, Fadgyas-Freyler P, *Di Ruscio F*, Friedrich AW, NeWIS project group<br>
+Clinical Microbiology and Infection. 2026;32(5):696-699.<br>
+
 ***    
 
 ### 2025 <br>
