@@ -42,15 +42,15 @@ Environmental research, 2025. 266, p.120614.<br>
 PLOS Computational Biology. 20(1): e1011426<br>
 
 - [**Monitoring Progress Towards the Elimination of Hepatitis C as a Public Health Threat in Norway: A Modelling Study Among People Who Inject Drugs and Immigrants.**](https://doi.org/10.1093/infdis/jiae147) <br>
-Robert Whittaker, *Jørgen E Midtbø*, Hilde Kløvstad <br>
+Whittaker R, *Midtbø JE*, Kløvstad H <br>
 The Journal of Infectious Diseases, Volume 230, Issue 3, 15 September 2024, Pages e700–e711 <br>
 
 - [**Spatial and demographic heterogeneity in excess mortality in the United States, 2020-2023: a multi-model approach**](https://doi.org/10.1093/aje/kwae422) <br>
-*Sasikiran Kandula, Anja Bråthen Kristoffersen, Gunnar Rø, Marissa LeBlanc, Birgitte Freiesleben de Blasio* <br>
-American Journal of Epidemiology, 2024. <br>
+*Kandula S, Kristoffersen AB, Rø G, LeBlanc M, de Blasio BF* <br>
+American Journal of Epidemiology, 2024. 194(9). <br>
 
 - [**The influence of cross-border mobility on the COVID-19 epidemic in Nordic countries**](https://doi.org/10.1371/journal.pcbi.1012182) <br>
-Mikhail Shubin, *Hilde Kjelgaard Brustad, Jørgen Eriksson Midtbø*, Felix Günther, Laura Alessandretti, Tapio Ala-Nissila,Gianpaolo Scalia Tomba, Mikko Kivelä, Louis Yat Hin Chan, Lasse Leskelä <br>
+Shubin M, *Brustad HK, Midtbø JE*, Günther F, Alessandretti L, Ala-Nissila T, Tomba GS, Kivelä M, *Chan LY*, Leskelä L <br>
 PLOS Computational Biology, 2024. <br>
 
 ***
