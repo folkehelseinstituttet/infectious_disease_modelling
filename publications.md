@@ -3,6 +3,10 @@ layout: publications
 title: "Publications"
 ---
 ### 2026 <br>
+- [**Categorical short-term forecasts of respiratory pathogens in Europe**](https://www.sciencedirect.com/science/article/pii/S175543652600054X)<br>
+*Kandula S, Rø G, LeBlanc M, de Blasio BF* <br>
+Epidemics. 2026 Sep:100938.<br>
+
 - [**Combining an agent-based model with Gaussian process emulation to model the emergence of the SARS-CoV-2 Omicron variant in Norway**](https://www.sciencedirect.com/science/article/pii/S1755436526000113)<br>
 *Palomares AD, De Blasio BF, Chan LY, Di Ruscio F, Midtbø JE* <br>
 Epidemics. 2026 Feb 17:100895.<br>
